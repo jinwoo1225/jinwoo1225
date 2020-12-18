@@ -15,8 +15,8 @@
   10. `Internet on Things(2020)` Learned about Cross-Compile, Making device driver, Kernel Porting
   
   -What I did from university
-  1. Tutor 2 Tutee(Frontend)
-  2. SnakeGameForSmart4412
+  1. `Tutor 2 Tutee(Frontend)`
+  2. `SnakeGameForSmart4412`
   
 <!--
 **jinwoo1225/jinwoo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
