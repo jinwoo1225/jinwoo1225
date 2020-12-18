@@ -14,7 +14,7 @@
   9. `Operating System(2020)` Learned about Process, Thread, Mutual exclusion, Process synchronization, Deadlock, Process scheduling, Memory management
   10. `Internet on Things(2020)` Learned about Cross-Compile, Making device driver, Kernel Porting
   
-  -What I did from university
+  - What I did from university
   1. `Tutor 2 Tutee(Frontend)`
   2. `SnakeGameForSmart4412`
   
