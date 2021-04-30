@@ -19,7 +19,7 @@
   
   - What I did from university  🧑‍💻
     1. [`Tutor 2 Tutee(Frontend)`](https://github.com/jinwoo1225/Tutor2Tutee)
-    2. [`SnakeGameForSmart4412`](https://github.com/jinwoo1225/SnakeGameForSmart4412)
+    2. [`SnakeGameWithSmart4412`](https://github.com/jinwoo1225/SnakeGameWithSmart4412)
   
 <!--
 **jinwoo1225/jinwoo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
