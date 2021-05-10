@@ -18,8 +18,14 @@
   
   
   - What I did from university  🧑‍💻
-    1. [`Tutor 2 Tutee(Frontend)`](https://github.com/jinwoo1225/Tutor2Tutee)
-    2. [`SnakeGameWithSmart4412`](https://github.com/jinwoo1225/SnakeGameWithSmart4412)
+    1. [`Tutor 2 Tutee(Frontend)`](https://github.com/jinwoo1225/Tutor2Tutee) Knowledge sharing platform website (frontend)
+    2. [`Tutor 2 Tutee(Backend)`](https://github.com/WooSeob/pbl3-server-side) Knowledge sharing platform website (Backend)
+    3. [`SnakeGameWithSmart4412`](https://github.com/jinwoo1225/SnakeGameWithSmart4412) Snake game ported into embedded platform
+        
+  
+
+  - Currently Working on 🔥
+    1. [`HAiR`](https://github.com/2021-HKNU-CD/HAiR) Realtime hair attribute manipulation project by using GAN model
   
 <!--
 **jinwoo1225/jinwoo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
