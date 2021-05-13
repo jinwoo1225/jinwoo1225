@@ -26,7 +26,7 @@
 
   - Currently Working on 🔥
     1. [`HAiR`](https://github.com/2021-HKNU-CD/HAiR) Realtime hair attribute manipulation project by using GAN model
-    2. [`Tutor 2 Tutee(Frontend)`](https://github.com/jinwoo1225/Tutor2Tutee-Advanced) Knowledge sharing platform website (updated)
+    2. [`Tutor 2 Tutee(Advanced)`](https://github.com/jinwoo1225/Tutor2Tutee-Advanced) Knowledge sharing platform website (updated)
   
 <!--
 **jinwoo1225/jinwoo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
