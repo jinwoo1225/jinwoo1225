@@ -1,5 +1,5 @@
 ## Hello! I am `Hong Jinwoo`
-![jinwoo1225's github stats](https://github-readme-stats.vercel.app/api?username=jinwoo1225)
+
 
 - 🌱 I’m currently learning in Computer Science at Hankyong National University (www.hknu.ac.kr)
   - What I learned from university ✍️
