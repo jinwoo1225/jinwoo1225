@@ -7,12 +7,12 @@
     2. [`Tutor 2 Tutee(Backend)`](https://github.com/WooSeob/pbl3-server-side) Knowledge sharing platform website (Backend) (2020.03~06)
     3. [`SmartFarmArduino`](https://github.com/jinwoo1225/SmartFarmArduino) Arduino-based Smart Farm(2020.09~12)
     4. [`SnakeGameWithSmart4412`](https://github.com/jinwoo1225/SnakeGameWithSmart4412) Snake game ported into embedded platform (2020.11~12)
+    5. [`HAiR`](https://github.com/2021-HKNU-CD/HAiR) Realtime hair attribute manipulation project by using GAN model (2021.01~2021.11)
         
   
 
   - Currently Working on 🔥
-    1. [`HAiR`](https://github.com/2021-HKNU-CD/HAiR) Realtime hair attribute manipulation project by using GAN model (2021.01~🔜)
-    2. [`Tutor 2 Tutee(Advanced)`](https://github.com/jinwoo1225/Tutor2Tutee-Advanced) Knowledge sharing platform website (updated) (2021.05~🔜)
+    1. [`Tutor 2 Tutee(Advanced)`](https://github.com/jinwoo1225/Tutor2Tutee-Advanced) Knowledge sharing platform website (updated) (2021.05~🔜)
     
   - What I learned from university ✍️
     1. `Advanced Programming 1(2019)` Learned about C++, Object Oriented Programming
