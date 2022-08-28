@@ -1,6 +1,6 @@
 ## Hello! I am `Hong Jinwoo`
 
-- Bachelor's Degree @ [Hankyong National University(Computer Engineering)](www.hknu.ac.kr)
+- Bachelor's Degree @ [Hankyong National University(Computer Engineering)](https://hknu.ac.kr/)
 - Software Engineer @ [Daangn(Karrot)](https://daangn.com)
 
 [![Hong Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo1225)](https://github.com/anuraghazra/github-readme-stats)
