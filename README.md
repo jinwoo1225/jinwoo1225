@@ -3,34 +3,15 @@
 - Bachelor's Degree @ [Hankyong National University(Computer Engineering)](https://hknu.ac.kr/)
 - Software Engineer @ [Daangn(Karrot)](https://daangn.com)
 
+## Featured In
+
+- Opened a booth for Daangn in InfCon 2022(인프콘 2022) 
+  - Team Blog Post 1 : https://medium.com/daangn/인프콘-2022에-등장한-당근마켓-개발자들-8c094ab31887
+  - Team Blog Post 2 : https://medium.com/daangn/당근마켓-개발자-10문-10답-인프콘-2022-d8e8590176d4
+  - <img src="https://user-images.githubusercontent.com/3052898/197172609-4c6a5c77-5dca-4fda-97d9-a7d85201c289.jpeg" width="50%" height="height 50%"/>
+
 [![Hong Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo1225&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - Docker Hub : https://hub.docker.com/u/jinwoo17962
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinwoo1225%2Fjinwoo1225&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-<!--
-**jinwoo1225/jinwoo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-  - What I learned from university ✍️
-    1. `Advanced Programming 1(2019)` Learned about C++, Object Oriented Programming
-    2. `Advanced Programming 2(2019)` Learned about Python
-    3. `System Programming(2019)` Learned about Linux, shell programming
-    4. `Data Structure(2019)` Learned about List, Queue, Stack, Binary tree, Hash table
-    5. `Data Science(2019)` Learned about Numpy, Pyplot, MatPlotLib
-    6. `Algorithm(2019)` Learned about Sorting, Selection, Binary search tree, Hashing, Mutually exclusive set, Dynamic programming, Graph, Greedy algorithm, String-searching algorithm, NP-complete
-    7. `Computer Structure(2020)` Learned about CPU structure and function, Arithmetic and logic computing, Control unit, Memory, System bus, I/O, Interrupt
-    8. `Artificial Intelligence with Programming(2020)` Learned about AI by using Tensor Flow
-    9. `Operating System(2020)` Learned about Process, Thread, Mutual exclusion, Process synchronization, Deadlock, Process scheduling, Memory management
-    10. `Internet on Things(2020)` Learned about Cross-Compile, Making device driver, Kernel Porting -->
