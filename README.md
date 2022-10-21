@@ -5,7 +5,7 @@
 
 ## Featured In
 
-- Opened a booth for Daangn in InfCon 2022(인프콘 2022) 
+- Participated a booth for Daangn in InfCon 2022(인프콘 2022) 
   - Team Blog Post 1 : https://medium.com/daangn/인프콘-2022에-등장한-당근마켓-개발자들-8c094ab31887
   - Team Blog Post 2 : https://medium.com/daangn/당근마켓-개발자-10문-10답-인프콘-2022-d8e8590176d4
   - <img src="https://user-images.githubusercontent.com/3052898/197172609-4c6a5c77-5dca-4fda-97d9-a7d85201c289.jpeg" width="50%" height="height 50%"/>
