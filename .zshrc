@@ -5,6 +5,15 @@ COMPLETION_WAITING_DOTS="true"
 DISABLE_UNTRACKED_FILES_DIRTY="true"
 HIST_STAMPS="mm/dd/yyyy"
 
+plugins=(
+	git
+  docker 
+	docker-compose
+	gh
+	golang
+	brew
+)
+
 # Brew Completion
 FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 
@@ -23,3 +32,4 @@ if [[ -n $SSH_CONNECTION ]]; then
 else
   export EDITOR='mvim'
 fi
+
