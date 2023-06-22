@@ -5,9 +5,12 @@ COMPLETION_WAITING_DOTS="true"
 DISABLE_UNTRACKED_FILES_DIRTY="true"
 HIST_STAMPS="mm/dd/yyyy"
 
+export GITHUB_TOKEN=$(gh auth token)
+export GITHUB_ACCESS_TOKEN=$(gh auth token)
+
 plugins=(
 	git
-  docker 
+  	docker 
 	docker-compose
 	gh
 	golang
