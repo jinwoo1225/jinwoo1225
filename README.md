@@ -1,7 +1,12 @@
 ## Hello! I am `Hong Jinwoo`
 
-- Bachelor's Degree @ [Hankyong National University(Computer Engineering)](https://hknu.ac.kr/)
-- Software Engineer @ [Daangn(Karrot)](https://daangn.com)
+### Recent Pull Requests
+
+- [fix: missing args](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/3) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (4 weeks ago)
+- [fix: readfile](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/2) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (4 weeks ago)
+- [fix: ret_filename_with_ext](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/1) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (4 weeks ago)
+- [test case : update message test case for wrapped error](https://github.com/redis/rueidis/pull/263) on [redis/rueidis](https://github.com/redis/rueidis) (1 month ago)
+- [fix(message): use errors is with redis nil](https://github.com/redis/rueidis/pull/262) on [redis/rueidis](https://github.com/redis/rueidis) (1 month ago)
 
 ## Featured In
 
