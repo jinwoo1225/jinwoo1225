@@ -13,7 +13,7 @@
 ### Year 2023
 - Participated in GopherCon Korea 2023 with a Karrot booth
   - LinkedIn Post : [Link](https://www.linkedin.com/posts/daangn_qxfqycregtfx-go-gophercon-ugcPost-7095382535454523393-HYUo?utm_source=share&utm_medium=member_desktop)
-  - <img src="https://github.com/jinwoo1225/jinwoo1225/assets/3052898/a6e0a6d7-bfd4-4982-ab56-dc623103effe" width="50%" height="50%" />
+  - <img src="https://github.com/jinwoo1225/jinwoo1225/assets/3052898/3a743f6f-cfd6-4162-826d-b88f2c9cb28e" width="50%" height="50%" />
 
 ### Year 2022
 - Participated in InfCon 2022 (인프콘 2022) with a Karrot booth
