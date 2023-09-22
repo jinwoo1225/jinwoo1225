@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [feat: add majority with journaled option on write concern option](https://github.com/mongodb/mongo-go-driver/pull/1331) on [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) (1 month ago)
+- [feat: add majority with journaled option on write concern option](https://github.com/mongodb/mongo-go-driver/pull/1331) on [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) (2 months ago)
 - [fix: missing args](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/3) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (3 months ago)
 - [fix: readfile](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/2) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (3 months ago)
 - [fix: ret_filename_with_ext](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/1) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (3 months ago)
