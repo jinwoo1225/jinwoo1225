@@ -6,7 +6,7 @@
 - [fix: missing args](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/3) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (5 months ago)
 - [fix: readfile](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/2) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (5 months ago)
 - [fix: ret_filename_with_ext](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/1) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (5 months ago)
-- [test case : update message test case for wrapped error](https://github.com/redis/rueidis/pull/263) on [redis/rueidis](https://github.com/redis/rueidis) (5 months ago)
+- [test case : update message test case for wrapped error](https://github.com/redis/rueidis/pull/263) on [redis/rueidis](https://github.com/redis/rueidis) (6 months ago)
 
 ## Featured In
 
