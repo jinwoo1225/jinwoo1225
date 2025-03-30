@@ -4,9 +4,9 @@
 
 - [fix: Improve cursor visibility for console.cloud.google.com](https://github.com/darkreader/darkreader/pull/13883) on [darkreader/darkreader](https://github.com/darkreader/darkreader) (1 month ago)
 - [feat: add majority with journaled option on write concern option](https://github.com/mongodb/mongo-go-driver/pull/1331) on [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) (2 years ago)
-- [fix: missing args](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/3) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (2 years ago)
-- [fix: readfile](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/2) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (2 years ago)
-- [fix: ret_filename_with_ext](https://github.com/jinwoo1225/m4a-to-mp3-converter/pull/1) on [jinwoo1225/m4a-to-mp3-converter](https://github.com/jinwoo1225/m4a-to-mp3-converter) (2 years ago)
+- [test case : update message test case for wrapped error](https://github.com/redis/rueidis/pull/263) on [redis/rueidis](https://github.com/redis/rueidis) (2 years ago)
+- [fix(message): use errors is with redis nil](https://github.com/redis/rueidis/pull/262) on [redis/rueidis](https://github.com/redis/rueidis) (2 years ago)
+- [fix(rueidisotel): prevent panic-able do multi with zero length commands](https://github.com/redis/rueidis/pull/258) on [redis/rueidis](https://github.com/redis/rueidis) (2 years ago)
 
 ## Featured In
 
