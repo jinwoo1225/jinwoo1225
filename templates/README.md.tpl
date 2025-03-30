@@ -37,4 +37,4 @@
 [![Hong Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwoo1225&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - Docker Hub : https://hub.docker.com/u/jinwoo17962
   
-[![Hits](https://view-counter-jinwoo1225.vercel.app/badge)](https://view-counter-jinwoo1225.vercel.app/)
+[![Hits](https://view-counter-jinwoo1225.vercel.app/api/badge)](https://view-counter-jinwoo1225.vercel.app/)
