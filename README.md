@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [chore: check repo exists and y as default command](https://github.com/jinwoo1225/gh-rr/pull/3) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
+- [feat: check repository exist](https://github.com/jinwoo1225/gh-rr/pull/2) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
 - [feat: improve clone](https://github.com/jinwoo1225/gh-rr/pull/1) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (4 days ago)
 - [fix: Improve cursor visibility for console.cloud.google.com](https://github.com/darkreader/darkreader/pull/13883) on [darkreader/darkreader](https://github.com/darkreader/darkreader) (2 months ago)
 - [feat: add majority with journaled option on write concern option](https://github.com/mongodb/mongo-go-driver/pull/1331) on [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) (2 years ago)
-- [test case : update message test case for wrapped error](https://github.com/redis/rueidis/pull/263) on [redis/rueidis](https://github.com/redis/rueidis) (2 years ago)
-- [fix(message): use errors is with redis nil](https://github.com/redis/rueidis/pull/262) on [redis/rueidis](https://github.com/redis/rueidis) (2 years ago)
 
 ## Featured In
 
