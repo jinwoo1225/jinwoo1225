@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hotfix: check env base dir directory](https://github.com/jinwoo1225/gh-rr/pull/7) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
+- [refactor: golang port](https://github.com/jinwoo1225/gh-rr/pull/6) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
 - [fix: remove comment](https://github.com/jinwoo1225/gh-rr/pull/5) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
 - [feat: add draft section](https://github.com/jinwoo1225/gh-rr/pull/4) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
 - [chore: check repo exists and y as default command](https://github.com/jinwoo1225/gh-rr/pull/3) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
-- [feat: check repository exist](https://github.com/jinwoo1225/gh-rr/pull/2) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (today)
-- [feat: improve clone](https://github.com/jinwoo1225/gh-rr/pull/1) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (4 days ago)
 
 ## Featured In
 
