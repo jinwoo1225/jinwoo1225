@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [fix: add draft:false option on my PR](https://github.com/jinwoo1225/gh-rr/pull/8) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [hotfix: check env base dir directory](https://github.com/jinwoo1225/gh-rr/pull/7) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [refactor: golang port](https://github.com/jinwoo1225/gh-rr/pull/6) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [fix: remove comment](https://github.com/jinwoo1225/gh-rr/pull/5) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [feat: add draft section](https://github.com/jinwoo1225/gh-rr/pull/4) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
+- [fix: add draft:false option on my PR](https://github.com/jinwoo1225/gh-rr/pull/8) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [hotfix: check env base dir directory](https://github.com/jinwoo1225/gh-rr/pull/7) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [refactor: golang port](https://github.com/jinwoo1225/gh-rr/pull/6) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [fix: remove comment](https://github.com/jinwoo1225/gh-rr/pull/5) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [feat: add draft section](https://github.com/jinwoo1225/gh-rr/pull/4) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
 
 ## Featured In
 
