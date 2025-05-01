@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [ui: detailed tab design](https://github.com/jinwoo1225/gh-rr/pull/12) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [go mod tidy](https://github.com/jinwoo1225/gh-rr/pull/11) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [refactor code and add involved open pr](https://github.com/jinwoo1225/gh-rr/pull/10) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [Update README.md](https://github.com/jinwoo1225/gh-rr/pull/9) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 days ago)
-- [fix: add draft:false option on my PR](https://github.com/jinwoo1225/gh-rr/pull/8) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (5 days ago)
+- [ui: detailed tab design](https://github.com/jinwoo1225/gh-rr/pull/12) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [go mod tidy](https://github.com/jinwoo1225/gh-rr/pull/11) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [refactor code and add involved open pr](https://github.com/jinwoo1225/gh-rr/pull/10) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [Update README.md](https://github.com/jinwoo1225/gh-rr/pull/9) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 days ago)
+- [fix: add draft:false option on my PR](https://github.com/jinwoo1225/gh-rr/pull/8) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (6 days ago)
 
 ## Featured In
 
