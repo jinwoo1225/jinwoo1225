@@ -6,7 +6,7 @@
 - [go mod tidy](https://github.com/jinwoo1225/gh-rr/pull/11) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 weeks ago)
 - [refactor code and add involved open pr](https://github.com/jinwoo1225/gh-rr/pull/10) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 weeks ago)
 - [Update README.md](https://github.com/jinwoo1225/gh-rr/pull/9) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 weeks ago)
-- [fix: add draft:false option on my PR](https://github.com/jinwoo1225/gh-rr/pull/8) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (3 weeks ago)
+- [fix: add draft:false option on my PR](https://github.com/jinwoo1225/gh-rr/pull/8) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (4 weeks ago)
 
 ## Featured In
 
