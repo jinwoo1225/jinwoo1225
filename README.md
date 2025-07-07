@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [chore: add ci](https://github.com/jinwoo1225/gh-rr/pull/14) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (4 weeks ago)
+- [chore: add ci](https://github.com/jinwoo1225/gh-rr/pull/14) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (1 month ago)
 - [feat: open pull request without close &amp; auto refresh](https://github.com/jinwoo1225/gh-rr/pull/13) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (1 month ago)
 - [ui: detailed tab design](https://github.com/jinwoo1225/gh-rr/pull/12) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 months ago)
 - [go mod tidy](https://github.com/jinwoo1225/gh-rr/pull/11) on [jinwoo1225/gh-rr](https://github.com/jinwoo1225/gh-rr) (2 months ago)
