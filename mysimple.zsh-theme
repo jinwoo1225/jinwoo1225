@@ -1,4 +1,8 @@
-MY_IP=$(hostname -I | awk '{print $1}')
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  MY_IP=$(ipconfig getifaddr en0 2>/dev/null || echo "localhost")
+else
+  MY_IP=$(hostname -I | awk '{print $1}')
+fi
 PROMPT='→ %F{green}%n@${MY_IP}%f $(git_prompt_info)
 %F{blue}%~%f '
 
