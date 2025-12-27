@@ -1,6 +1,12 @@
 # myconfig
 
-ZSH_THEME="simple"
+# mysimple 테마 자동 설치
+if [[ ! -f ~/.oh-my-zsh/themes/mysimple.zsh-theme ]]; then
+  curl -so ~/.oh-my-zsh/themes/mysimple.zsh-theme \
+    https://raw.githubusercontent.com/jinwoo1225/jinwoo1225/main/mysimple.zsh-theme
+fi
+
+ZSH_THEME="mysimple"
 COMPLETION_WAITING_DOTS="true"
 DISABLE_UNTRACKED_FILES_DIRTY="true"
 HIST_STAMPS="mm/dd/yyyy"
